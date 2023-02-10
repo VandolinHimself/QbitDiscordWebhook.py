@@ -1,7 +1,7 @@
 QBittorrent Discord Webhook and Rclone command wrapper
 Version: 1.0
 
-This script will send a notification to Discord via webhook, that your download are finished.
+This script will send a notification to Discord via webhook when your downloads are finished.
 
 After that, it execute a "copy" command from rclone to back it up to cloud storage
 
