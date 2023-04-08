@@ -1,7 +1,7 @@
 QBittorrent Discord Webhook and Rclone command wrapper
 
 
-This script will send a notification to Discord via webhook when your downloads are finished.  After that it executes a copy command from rclone to back it up to cloud storage.  This script might or might not works with other torrent clients...  I haven't tested it with an extensive list of options but I've realized some do and some don't.
+This script will send a notification to Discord via webhook when your downloads are finished.  After that it executes a copy command from rclone to back it up to cloud storage.  This script might or might not work with other torrent clients...  I haven't tested it with an extensive list of options but I've realized some do and some don't.
 
 
 :param name: The torrent name that will be sent
